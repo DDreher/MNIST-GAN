@@ -1,4 +1,4 @@
-# MNIST GAN
+# Hello GAN - Vanilla GAN / Wasserstein GAN trained on MNIST
 Basic implementation of a vanilla GAN /  Wasserstein GAN trained on the MNIST dataset. This code was only written for educational purposes.
 
 ## Overview
